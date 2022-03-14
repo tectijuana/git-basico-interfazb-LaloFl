@@ -2,7 +2,7 @@
 
 ### Hecho por:
 
-[Diego Eduardo Flores Sandoval](github.com/LaloFl) (19211641)
+[Diego Eduardo Flores Sandoval](https://github.com/LaloFl) (19211641)
 
 ## Ejercicios realizados:
 
