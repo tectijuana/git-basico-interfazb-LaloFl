@@ -16,6 +16,21 @@ int func()
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    float hipotenusa, cateto;
+    float seno, coseno, tangente;
+
+    cout << "Introduzca la longitud de la hipotenusa: ";
+    cin >> hipotenusa;
+    cout << "Introduzca la longitud del cateto: ";
+    cin >> cateto;
+
+    seno = cateto / hipotenusa;
+    coseno = hipotenusa / cateto;
+    tangente = cateto / hipotenusa;
+
+    cout << "El seno del ángulo agudo es: " << seno << endl;
+    cout << "El coseno del ángulo agudo es: " << coseno << endl;
+    cout << "La tangente del ángulo agudo es: " << tangente << endl;
+
     return 0;
 }
