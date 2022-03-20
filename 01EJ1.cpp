@@ -14,8 +14,8 @@ using namespace std;
 int main()
 {
     int moneda;
-    int contador_cara = 0;
-    int contador_cruz = 0;
+    int contador_aguila = 0;
+    int contador_sol = 0;
 
     int tiros;
     cout << "Cuantos tiros quieres hacer?: ";
@@ -29,16 +29,16 @@ int main()
         moneda = rand() % 2;
         if (moneda == 0)
         {
-            contador_cara++;
+            contador_aguila++;
         }
         else
         {
-            contador_cruz++;
+            contador_sol++;
         }
     }
 
-    cout << "Cara: " << contador_cara << endl;
-    cout << "Cruz: " << contador_cruz << endl;
+    cout << "Aguila: " << contador_aguila << endl;
+    cout << "Sol: " << contador_sol << endl;
 
     return 0;
 }
