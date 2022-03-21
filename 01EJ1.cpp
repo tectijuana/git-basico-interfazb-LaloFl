@@ -18,7 +18,7 @@ int main()
     int contador_sol = 0;
 
     int tiros;
-    cout << "Cuantos tiros quieres hacer?: ";
+    cout << "Cuantos tiros de moneda quieres hacer?: ";
     cin >> tiros;
 
     // seed para números aleatorios
