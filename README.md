@@ -1,8 +1,6 @@
 # Ejercicios de C++ (Lenguajez de Interfaz)
 
-### Hecho por:
-
-[Diego Eduardo Flores Sandoval](https://github.com/LaloFl) (19211641)
+### Autor: [Diego Eduardo Flores Sandoval](https://github.com/LaloFl) (19211641)
 
 Si hay algún error ortográfico, pueden culpar al compilador de C++ 😤.
 
